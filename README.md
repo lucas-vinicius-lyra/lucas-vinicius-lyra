@@ -1,9 +1,10 @@
 # 👑 O Cara Mais Capacitado do Mundo
 
 ![Ramon Dino](assets/ramondino.jpg)
+#↑↑↑ESSE CABA É BOM!!!↑↑↑
 
 *O Dinossauro do Acre, ícone do fisiculturismo brasileiro.*
-#↑↑↑ESSE CABA É BOM!!!↑↑↑
+
 ---
 
 ## Sobre Mim
