@@ -30,19 +30,9 @@ Tenho um compromisso inabalável com a qualidade, aprendizado contínuo e impact
 
 ---
 
-## Projetos em Destaque
+## Sobre o Ramon Dino
 
-### Projeto 1: Sistema Inteligente  
-![Projeto 1](https://i.imgur.com/project1-image.png)  
-Descrição rápida do projeto e seu impacto.
-
-### Projeto 2: Plataforma Escalável  
-![Projeto 2](https://i.imgur.com/project2-image.png)  
-Solução inovadora para [problema específico].
-
-### Projeto 3: Ferramenta para Desenvolvedores  
-![Projeto 3](https://i.imgur.com/project3-image.png)  
-Ferramenta que ajuda [público alvo] a alcançar [resultado].
+![Ramon Dino](https://avatars.githubusercontent.com/u/12623392?v=4)
 
 ---
 
