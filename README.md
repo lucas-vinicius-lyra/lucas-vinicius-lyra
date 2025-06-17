@@ -1,6 +1,6 @@
 # 👑 O Cara Mais Capacitado do Mundo
 
-![Ramon Dino](.assets/ramondino.jpg)
+![Ramon Dino](assets/ramondino.jpg)
 
 *O Dinossauro do Acre, ícone do fisiculturismo brasileiro.*
 #↑↑↑ESSE CABA É BOM!!!↑↑↑
