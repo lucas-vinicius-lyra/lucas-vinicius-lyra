@@ -1,6 +1,6 @@
 # 👑 O Cara Mais Capacitado do Mundo
 
-![Ramon Dino](https://ge.globo.com/fisiculturismo/reportagem/2024/02/28/c-ramon-dino-altura-idade-peso-e-historia-do-fisiculturista.ghtml)
+![Ramon Dino](https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/11/ramon-dino-mr-olympia-e1699131023342.jpeg)
 
 *O Dinossauro do Acre, ícone do fisiculturismo brasileiro.*
 #↑↑↑ESSE CABA É BOM!!!↑↑↑
