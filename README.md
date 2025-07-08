@@ -27,6 +27,6 @@ Tenho um compromisso inabalável com a qualidade, aprendizado contínuo e impact
 
 ## Curiosidade
 
-> "O segredo da maestria está na prática constante e no desejo incansável de aprender." — O Cara Mais Capacitado do Mundo
+> "O segredo da maestria está na prática constante e no desejo incansável de aprender." — Gpt, Chat
 
 ---
