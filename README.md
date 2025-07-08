@@ -1,13 +1,5 @@
 # 👑 O Cara Mais Capacitado do Mundo
 
-![Ramon Dino](assets/ramondino.jpg)
-
-## ↑↑↑ESSE CABA É BOM!!!↑↑↑
-
-*O Dinossauro do Acre, ícone do fisiculturismo brasileiro.*
-
----
-
 ## Sobre Mim
 
 Sou um profissional apaixonado por tecnologia, inovação e soluções que transformam ideias em realidade. Com uma vasta experiência em diversas áreas do desenvolvimento de software, engenharia, liderança técnica e empreendedorismo, entrego resultados que ultrapassam expectativas.
@@ -33,21 +25,8 @@ Tenho um compromisso inabalável com a qualidade, aprendizado contínuo e impact
 
 ---
 
-## Vamos Conectar?
-
-Estou sempre aberto para trocar ideias, colaborar em projetos desafiadores e construir o futuro juntos.
-
-- 📫 [Email profissional]
-- 🌐 [LinkedIn]
-- 🐦 [Twitter]
-
----
-
 ## Curiosidade
 
 > "O segredo da maestria está na prática constante e no desejo incansável de aprender." — O Cara Mais Capacitado do Mundo
 
 ---
-
-Se gostou, siga o perfil e acompanhe as novidades!
-
