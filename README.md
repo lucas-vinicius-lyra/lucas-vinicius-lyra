@@ -5,6 +5,7 @@ Sou um profissional com sólida formação técnica e experiência prática no d
 Tenho familiaridade com boas práticas de engenharia de software, versionamento de código, testes automatizados e metodologias ágeis. Busco constantemente aprimorar minhas habilidades técnicas, mantendo um compromisso com qualidade, clareza no código e colaboração em equipe.
 
 ---
+
 ## 💻 Tecnologias
 
 <p align="left">
@@ -14,7 +15,9 @@ Tenho familiaridade com boas práticas de engenharia de software, versionamento 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
+
 ---
+
 ## 🛠️ Habilidades Principais
 
 - **Java & Python**: Desenvolvimento de sistemas backend, APIs REST, automações e processamento de dados.  
@@ -23,9 +26,10 @@ Tenho familiaridade com boas práticas de engenharia de software, versionamento 
 - **Controle de Versão**: Git e GitHub, com organização clara de branches e histórico de commits.  
 - **Boas Práticas de Código**: Escrita limpa, modular e testável, seguindo padrões de mercado.  
 - **Metodologias Ágeis**: Experiência com Scrum e Kanban, focado em entregas contínuas e melhoria constante.
+
 ---
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-félix-73102933b)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)
