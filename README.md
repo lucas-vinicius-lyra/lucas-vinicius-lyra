@@ -1,32 +1,31 @@
-# 👑 O Cara Mais Capacitado do Mundo
+## 👨‍💻 Sobre Mim
 
-## Sobre Mim
+Sou um profissional com sólida formação técnica e experiência prática no desenvolvimento de software, com foco em soluções eficientes, seguras e escaláveis. Atuo principalmente com as linguagens **Java**, **Python**, **HTML**, **CSS** e **JavaScript**, desenvolvendo aplicações web completas, desde o backend até a interface com o usuário.
 
-Sou um profissional apaixonado por tecnologia, inovação e soluções que transformam ideias em realidade. Com uma vasta experiência em diversas áreas do desenvolvimento de software, engenharia, liderança técnica e empreendedorismo, entrego resultados que ultrapassam expectativas.
-
-Tenho um compromisso inabalável com a qualidade, aprendizado contínuo e impacto positivo, sempre buscando o próximo desafio para elevar ainda mais o nível.
+Tenho familiaridade com boas práticas de engenharia de software, versionamento de código, testes automatizados e metodologias ágeis. Busco constantemente aprimorar minhas habilidades técnicas, mantendo um compromisso com qualidade, clareza no código e colaboração em equipe.
 
 ---
+## 💻 Tecnologias
 
-## Habilidades Principais
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+---
+## 🛠️ Habilidades Principais
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-- 💻 **Desenvolvimento Full-Stack:** Domínio absoluto em diversas linguagens e frameworks (JavaScript, Python, Java, Go, React, Node.js, etc.)
-- 🚀 **Arquitetura de Software:** Projetos escaláveis, seguros e de alta performance.
-- 🤖 **Inteligência Artificial & Machine Learning:** Implementação de modelos avançados e soluções inteligentes.
-- ☁️ **Cloud Computing:** AWS, Azure, Google Cloud — expertise em infraestrutura e DevOps.
-- 🔒 **Segurança da Informação:** Práticas e padrões para proteger dados e sistemas.
-- 🧠 **Liderança & Mentoria:** Inspirando equipes a superar metas e crescer profissionalmente.
-- 📈 **Metodologias Ágeis:** Scrum, Kanban e cultura DevOps para acelerar entregas.
-
+- **Java & Python**: Desenvolvimento de sistemas backend, APIs REST, automações e processamento de dados.  
+- **HTML, CSS & JavaScript**: Criação de interfaces responsivas, acessíveis e compatíveis com os principais navegadores.  
+- **Desenvolvimento Web Full-Stack**: Integração eficiente entre frontend e backend.  
+- **Controle de Versão**: Git e GitHub, com organização clara de branches e histórico de commits.  
+- **Boas Práticas de Código**: Escrita limpa, modular e testável, seguindo padrões de mercado.  
+- **Metodologias Ágeis**: Experiência com Scrum e Kanban, focado em entregas contínuas e melhoria constante.
 ---
 
-## Curiosidade
+## 🌐 Contato
 
-> "O segredo da maestria está na prática constante e no desejo incansável de aprender." — Gpt, Chat
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)
